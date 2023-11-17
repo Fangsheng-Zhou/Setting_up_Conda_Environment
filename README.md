@@ -1,1 +1,1 @@
-# Setting-up-Conda-Environment
+# Setting up Conda Environment
